@@ -1,0 +1,25 @@
+{
+  "name": "skulls",
+  "version": "1.0.0",
+  "description": "Hello. Skulls here.",
+  "main": "initSkulls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chizat/skulls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chizat/skulls/issues"
+  },
+  "homepage": "https://github.com/chizat/skulls#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "johnny-five": "^0.11.6",
+    "keypress": "^0.2.1",
+    "meyda": "^4.1.3"
+  }
+}
