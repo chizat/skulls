@@ -2,7 +2,7 @@ var five = require("johnny-five");
 var keypress = require("keypress");
 var board = new five.Board()
 var skull = require("./skull.js");
-var middleClass = require("./right.js");
+var middleClass = require("./left.js");
 
 keypress(process.stdin);
 
